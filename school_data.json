@@ -1,0 +1,46 @@
+{
+  "services": [
+      {
+          "name": "AI Chatbots",
+          "category": "Automation & AI",
+          "description": "We develop intelligent chatbots to automate customer interactions, enhance user experience, and improve business efficiency.",
+          "price": "Custom Pricing",
+          "integration": ["Websites", "WhatsApp", "Facebook Messenger"]
+      },
+      {
+          "name": "AI Marketing Automation",
+          "category": "Marketing & Sales",
+          "description": "Leverage AI-powered marketing solutions for personalized customer engagement and automated lead generation.",
+          "price": "Custom Pricing",
+          "integration": ["Email Marketing", "Social Media Ads", "CRM"]
+      },
+      {
+          "name": "Intelligent Document Processing (IDP)",
+          "category": "Business Automation",
+          "description": "Automate document handling, data extraction, and processing using AI-powered IDP solutions.",
+          "price": "Custom Pricing",
+          "integration": ["Invoices", "Contracts", "Forms"]
+      },
+      {
+          "name": "Robotic Process Automation (RPA)",
+          "category": "Business Automation",
+          "description": "Implement RPA solutions to automate repetitive tasks, reduce human effort, and increase productivity.",
+          "price": "Custom Pricing",
+          "integration": ["Finance", "HR", "Customer Service"]
+      },
+      {
+          "name": "Predictive Analytics",
+          "category": "Data & AI",
+          "description": "Use AI and machine learning to analyze data and predict customer behavior, sales trends, and operational risks.",
+          "price": "Custom Pricing",
+          "integration": ["Sales Forecasting", "Customer Insights", "Risk Assessment"]
+      }
+  ],
+  "location": {
+      "name": "Evolve AI Automation",
+      "address": "Durumi, FCT, Nigeria",
+      "contact": "+234 812 345 6789",
+      "email": "info@evolveai.com",
+      "website": "www.evolveai.com"
+  }
+}
